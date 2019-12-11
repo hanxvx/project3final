@@ -1,0 +1,128 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+#actualheader{
+    background-color: #E37F41;
+    width: 100%;
+    height 100%;
+    position: absolute;
+   
+}
+.header {
+position: absolute;
+top: 0px;
+left: 250px;
+
+
+}
+#topnav {
+    position: relative;
+    top: 300px;
+    left: 0px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: cooper-black-std, serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+#deets {
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    font-size: 17px;
+    font-family: cooper-black-std, serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 5px;
+    text-align: center;
+    
+}
+.post
+{
+    position:absolute;
+    top:600px;
+    left:75px;
+}
+
+.two {
+     position:absolute;
+    top:600px;
+    left:500px;
+    
+}
+.three{
+   position:absolute;
+    top:600px;
+    left:925px; 
+}
+.inst {
+    position:absolute;
+    top: 1000px;
+    left: 650px;
+}
+.face {
+    position: absolute;
+    top: 1000px;
+    left: 600px;
+}
+.twit {
+    position: absolute;
+    top: 1003px;
+    left: 700px;
+}
+.email {
+    position: absolute;
+    top:1000px;
+    left: 750px;
+}
+.barbar {
+    position: absolute;
+    top: 550px;
+    left: 30px;
+}
+.backgro {
+    position:absolute;
+    top: 500px;
+    left: 30px;
+    opacity: .5;
+}
+.menbar {
+    position: absolute;
+    top: 330px;
+    left: 480px;
+}
+.arrow {
+    position: absolute;
+    top: 700px;
+    left: 1275px;
+}
+div {
+}
+
+h1
+{
+    
+}
+, h2, h3, h4, h5, h6 {
+
+}
+
+p1 {
+position: relative;
+    top: 600px;
+    left: 150px;
+    right: 1500px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: cooper-black-std, serif;
+    font-weight: 400;
+    font-style: normal;
+}
